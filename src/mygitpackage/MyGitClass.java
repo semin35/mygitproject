@@ -8,6 +8,7 @@ public class MyGitClass {
 		System.out.println("my third commit");
 		System.out.println("bu sonuncu olsun");
 		System.out.println("uzak sunucudaki kodum");
+		System.out.println("bu degisiklik cikacak mi bakalim";
 	}
 
 }

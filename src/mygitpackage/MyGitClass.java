@@ -10,6 +10,7 @@ public class MyGitClass {
 		System.out.println("uzak sunucudaki kodum");
 		System.out.println("bu degisiklik cikacak mi bakalim");
 		System.out.println("takim arkadasimin kodu");
+		System.out.println("13.satir bilgisayarim");
 	}
 
 }

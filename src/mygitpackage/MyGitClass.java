@@ -9,6 +9,7 @@ public class MyGitClass {
 		System.out.println("bu sonuncu olsun");
 		System.out.println("uzak sunucudaki kodum");
 		System.out.println("bu degisiklik cikacak mi bakalim");
+		System.out.println("takim arkadasimin kodu");
 	}
 
 }

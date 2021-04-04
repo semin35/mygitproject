@@ -11,6 +11,7 @@ public class MyGitClass {
 		System.out.println("bu degisiklik cikacak mi bakalim");
 		System.out.println("takim arkadasimin kodu");
 		System.out.println("13.satir bilgisayarim");
+		System.out.println("14.satir uzak sunucum");
 	}
 
 }

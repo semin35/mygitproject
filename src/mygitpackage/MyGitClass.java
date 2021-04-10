@@ -16,6 +16,7 @@ public class MyGitClass {
 		System.out.println("15.satir bilgisayarim");
 
 		System.out.println("14.satir uzak sunucum");
+		System.out.println("seray brancinda kodum");
 
 	}
 
